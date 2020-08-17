@@ -1,0 +1,17 @@
+.div_total{
+    background-color: #F3F3F3;
+}
+.div_student_title{
+    text-align: center;
+    border: 1px solid #B1D1CE;
+}
+a{text-decoration: none}
+a:hover{text-decoration: none}
+table{
+    text-align:center;
+    height: 30px;
+}
+th{
+    width: 200px;
+    height: 40px;
+}
